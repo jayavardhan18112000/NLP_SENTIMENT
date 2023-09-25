@@ -1,4 +1,4 @@
-# Sentiment Analysis of COVID-19 Vaccination Tweets
+# Sentiment Analysis of pfizer Vaccination Tweets
 
 ## Overview
 
